@@ -79,8 +79,22 @@ AI / Machine Learning
 
 ## 📈 GitHub Activity
 
-I use GitHub to document projects, experiments, and things I'm learning along the way.
-
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/matinsp7/matinsp7/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/matinsp7/matinsp7/output/github-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/matinsp7/matinsp7/output/github-snake.svg"
+      alt="GitHub Contribution Snake"
+    />
+  </picture>
+</p>
 ---
 
 ## 🤝 Let's Connect

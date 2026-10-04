@@ -1,8 +1,11 @@
 <div align="center">
 
-# Hi, I'm Matin 👋
-
-### Backend & AI • Computer Engineering
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Matin+%F0%9F%91%8B;Backend+%26+AI+Developer;Computer+Engineering+Student"
+    alt="Typing SVG"
+  />
+</p>
 
 Building software, exploring AI, and learning how systems work from the inside out.
 

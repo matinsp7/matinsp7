@@ -1,4 +1,13 @@
-## Hi there 👋
+<div align="center">
+
+Hi, I'm Matin 👋
+Backend & AI • Computer Engineering
+
+Building software, exploring AI, and learning how systems work from the inside out.
+
+<p> <a href="https://www.linkedin.com/in/mohammad-matin-parian/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/matinsp7"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /> </a> </p>
+
+</div>
 
 <!--
 **matinsp7/matinsp7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
